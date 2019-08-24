@@ -47,3 +47,6 @@ add_executable(d_IntArray d/IntArrayRC.cpp d/IntArrayRC.h d/IntArray.h d/IntArra
 add_executable(d_IntSortedArray d/IntSortedArray.h d/IntSortedArray.cpp)
 add_executable(d_Array d/Array.cpp d/Array.h d/main_array.cpp)
 add_executable(trycatch trycatch/main.cpp  )
+
+add_executable(e_01 e/01.cpp)
+add_executable(e_02 e/02.cpp)
