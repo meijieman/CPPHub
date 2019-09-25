@@ -50,3 +50,4 @@ add_executable(trycatch trycatch/main.cpp  )
 
 add_executable(e_01 e/01.cpp)
 add_executable(e_02 e/02.cpp)
+add_executable(e_c1 e/c1.cpp)
