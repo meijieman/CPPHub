@@ -1,0 +1,10 @@
+[解压引擎地址]
+C:\7-Zip\7z.exe
+[目标文件地址]
+G:\BaiduYunDownload\liulangdiqiu.zip
+[最小密码长度]
+5
+[最大密码长度]
+10
+[密码字符集]
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.0123456789

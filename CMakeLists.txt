@@ -3,6 +3,8 @@ project(CPPHub)
 
 set(CMAKE_CXX_STANDARD 14)
 
+add_subdirectory(aurora)
+
 add_executable(cpp_01 cpp/cpp_01.cpp)
 add_executable(cpp_02 cpp/cpp_02.cpp)
 add_executable(cpp_03 cpp/cpp_03.cpp)
