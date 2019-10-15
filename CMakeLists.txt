@@ -4,6 +4,7 @@ project(CPPHub)
 set(CMAKE_CXX_STANDARD 14)
 
 add_subdirectory(aurora)
+add_subdirectory(f)
 
 add_executable(cpp_01 cpp/cpp_01.cpp)
 add_executable(cpp_02 cpp/cpp_02.cpp)

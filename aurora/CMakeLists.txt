@@ -16,7 +16,7 @@ add_executable(bank bank/bank.cpp bank/bank.h bank/stdafx.h bank/stdafx.cpp bank
 
 add_executable(CSample alpha/CSample.cpp)
 add_executable(start alpha/start.cpp)
-add_executable(wmain wmain/wmain.cpp)
+#add_executable(wmain wmain/wmain.cpp)
 add_executable(alpha_cpp_01 alpha/cpp_01.cpp)
 add_executable(CRectangle01 alpha/CRectangle.cpp)
 add_executable(CCar alpha/CCar.cpp)
@@ -27,7 +27,7 @@ add_executable(stl_01 stl/stl_01.cpp)
 #http/MoHttp.cpp http/MoHttp.h
 add_executable(http http/main.cpp http/mongoose.c http/mongoose.h http/basic_http.cpp http/basic_http.h)
 
-add_executable(wmain01 wmain/wmain01.cpp)
+#add_executable(wmain01 wmain/wmain01.cpp)
 
 add_executable(cpp_02_test_swap cpp02/test_swap.cpp)
 add_executable(cpp_02_test_struct cpp02/test_struct.cpp)
